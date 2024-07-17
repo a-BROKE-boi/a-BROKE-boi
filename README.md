@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Caio Whitmore
-- 👀 I’m interested in Games, tech and Economics
-- 🌱 I’m currently learning Softweare development in TypeScript
+- 👀 I’m interested in Games, tech and Art
+- 🌱 I’m currently learning Software development in TypeScript
 - 💞️ I’m looking to collaborate on any projects that help social programs
 - 📫 How to reach me ...
 - 😄 Pronouns: ...
