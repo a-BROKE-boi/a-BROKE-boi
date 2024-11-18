@@ -2,9 +2,7 @@
 - 👀 I’m interested in Games, tech and Art
 - 🌱 I’m currently learning Software development in TypeScript
 - 💞️ I’m looking to collaborate on any projects that help social programs
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+
 
 <!---
 a-BROKE-boi/a-BROKE-boi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
